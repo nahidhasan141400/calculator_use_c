@@ -4,11 +4,9 @@
 #include <math.h>
 
 void ma (opt2){
-
     int n1, n2;
     float res;
     system("cls");
-
      if (opt2 == '/' )
     {
         printf (" You have selected: Division");
@@ -205,8 +203,5 @@ int main(){
         default:
             printf("ok");
 }
-
-
-
     return 0;
 };
